@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm David 👋
 
-<!--
-**KadekDavid/KadekDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on transactional systems — where data must never be wrong.
 
-Here are some ideas to get you started:
+- 🔭 3 years building on insurance and banking platforms (Pega, Laravel, C#)
+- 🌱 Now going deeper into **Go** and **Python** for backend engineering
+- 💡 Interested in payments, ledgers, and systems that move money safely
+- 📍 Based in Bali, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured project**
+- [wallet-lab](https://github.com/KadekDavid/wallet-lab) — a Go wallet/ledger service + Python reconciler, demonstrating idempotency, atomicity, and concurrency safety under load.
+
+**Tech**
+`Go` · `Python` · `PostgreSQL` · `Laravel` · `Docker` · `Java` 
+
+---
+📫 [LinkedIn](http://linkedin.com/in/kadekdavidkurniawan)
